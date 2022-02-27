@@ -6,3 +6,4 @@ This is my porfolio website
 - git clone this repository
 - cd Portfolio
 - open the project in your preffered editor eg VS CODE
+## LINK:https://github.com/Fuadmanye/Portfolio.git
