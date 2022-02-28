@@ -10,5 +10,5 @@ This is my first project which talks about my portfolio and includes my hobbie,a
 ## Technologies Used
 HTML,CSS and BOOTSTRAP
 ##### Link to my github-pages
-()
+(https://fuadmanye.github.io/Portfolio/)
 ### License
