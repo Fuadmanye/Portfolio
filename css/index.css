@@ -1,0 +1,17 @@
+.heading{
+    color:brown;
+    margin-top: 7%;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+.m-container{
+    margin-top: 9% !important;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+}
+.h2-about{
+    text-align: right !important;
+}
+.h2-about{
+    text-align: left !important;
+}
