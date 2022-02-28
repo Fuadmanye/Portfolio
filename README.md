@@ -1,9 +1,14 @@
-# My portfolio
-### Author: Fuad Manye
-## Description 
-This is my porfolio website 
-## Setup instruction 
+# PORTFOLIO
+#### This is my first ip in moringa school
+#### By **Fuad Manye**
+## Description
+This is my first project which talks about my portfolio and includes my hobbie,and background
+## Setup/Installation Requirements
 - git clone this repository
-- cd Portfolio
-- open the project in your preffered editor eg VS CODE
-## LINK:https://github.com/Fuadmanye/Portfolio.git
+- cd portfolio
+- open the project in your preffered editor eg VC CODE OR ATOM
+## Technologies Used
+HTML,CSS and BOOTSTRAP
+##### Link to my github-pages
+()
+### License
